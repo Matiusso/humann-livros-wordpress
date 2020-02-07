@@ -1,4 +1,5 @@
 senha e login do wordpress : admin 
+
 O arquivo em .rar é o site compactado pelo WP Migration 
 
 referências usadas: 
